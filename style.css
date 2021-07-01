@@ -1,0 +1,15 @@
+h1 {
+color:blue
+}
+.header {
+display:flex;
+background-color:yellow
+}
+.section {
+display:flex;
+background-color:green
+    }
+.foot {
+display:flex;
+background-color:purple
+        }
